@@ -2,7 +2,7 @@ import React from 'react';
 
 const Skill = () => {
   return (
-    <div className='container-fluid p-md-5' style={{backgroundColor:'#dffeff'}}>
+    <div className='container-fluid p-md-5 py-4' style={{backgroundColor:'#dffeff'}}>
       <h1 className="fw-bold">Skills</h1>
       <hr className="border border-3 border-primary" style={{width:"70px"}} />
       <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>

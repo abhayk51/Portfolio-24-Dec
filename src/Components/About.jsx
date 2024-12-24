@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <div className='container-fluid p-md-5'>
+    <div className='container-fluid p-md-5 py-4'>
     <h1 className="fw-bold">About</h1>
     <hr className="border border-3 border-primary" style={{width:"70px"}} />
     <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>

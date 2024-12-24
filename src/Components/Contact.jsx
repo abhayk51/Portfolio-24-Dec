@@ -1,7 +1,7 @@
 
 function Contact(){
   return (
-    <div className="container-fluid p-md-5">
+    <div className="container-fluid p-md-5 py-4">
       <h1 className="fw-bold">Contact</h1>
       <hr className="border border-3 border-primary" style={{width:"70px"}} />
       <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
